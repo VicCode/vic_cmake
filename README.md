@@ -9,3 +9,7 @@
 3. 打来项目的CMake文件：`vim CMakeLists.txt`，设置模块搜索路径：`set(CMAKE_MODULE_PATH "${CMAKE_SOURCE_DIR}/vic_cmake")`。
 4. 现在就可以使用相应的模块功能了。使用示例：`CMakeLists.txt`
 
+## 反馈
+* 作者: Vic
+* 邮箱: code@vicliu.cn
+
